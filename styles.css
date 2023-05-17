@@ -1,2 +1,28 @@
 
+.holder{
+            display: flex;
+            flex-flow: row;
+            flex-wrap: wrap;
+            justify-content:center;
+        }
+        .card1{
+            order: 2;
+            height: 100px;
+            width: 100px;
+            background-color: red;
+        }
+        .card2{
+            order: 3;
+            height: 100px;
+            width: 100px;
+            background-color: blue;
+        }
+        .card3{
+            order: 1;
+            height: 100px;
+            width: 100px;
+            background-color: darkgreen;
+        }
+
+/* Your CSS Code here. */
 /* Your CSS Code here. */
